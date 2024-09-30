@@ -26,5 +26,6 @@ Ensure you have the following libraries installed:
 ```bash
 pip install pygame opencv-python mediapipe pyttsx3 numpy
 ```
-## Authors
-- Nagulapally Bhargavi
+## Contributors
+
+- Nagulapally Bhargavi - https://github.com/bhargavi852004
